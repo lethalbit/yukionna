@@ -1,0 +1,10 @@
+build/
+__pycache__/
+.venv/
+
+*.pyc
+
+*.vcd
+*.gtkw
+*.hex*
+*.bin

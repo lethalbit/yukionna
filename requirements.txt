@@ -1,0 +1,5 @@
+git+https://github.com/amaranth-lang/amaranth.git@main
+Jinja2
+PySpice
+rich~=12.2.0
+docker
